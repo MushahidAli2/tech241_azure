@@ -8,9 +8,9 @@
 - Click on "Create" to start the virtual network creation process.
 
     **Basics:**
-    - In the Basics tab, provide a name for your virtual network in the "Name" field, following the format `<group>-<first name>-test-vnet` (e.g., `tech201-ramon-test-vnet`).
+    - In the Basics tab, provide a name for your virtual network in the "Name" field, following the format `<group>-<first name>-test-vnet` (e.g., `tech201-Mushahid-test-vnet`).
     - Change the region to "UK South" from the dropdown menu.
-    - Under Tags, add a tag called "Owner" with your first name as the value (e.g., "Ramon").
+    - Under Tags, add a tag called "Owner" with your first name as the value (e.g., "Mushahid").
     - Leave the other settings as default.
 
     **Review + Create:**
