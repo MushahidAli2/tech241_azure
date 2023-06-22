@@ -42,6 +42,6 @@ To orchestrate and run virtual machines, the following software components are t
 1. Hypervisor: A hypervisor, also known as a virtual machine monitor (VMM), is responsible for creating and managing virtual machines on the physical hardware. Examples include VMware ESXi, Microsoft Hyper-V, and KVM.
 2. Virtualization Management Software: This software provides a management interface to control and monitor virtual machines, allocate resources, configure networking, and handle other administrative tasks. Examples include VMware vCenter, Microsoft System Center Virtual Machine Manager, and Azure Virtual Machine Manager.
 
-## What is the importance of an image when creating a VM?
+### What is the importance of an image when creating a VM?
 
 An image is a template or snapshot of a virtual machine's configuration and state. It captures the operating system, applications, settings, and data required to create new instances of virtual machines. When creating a VM, an image serves as the foundation, allowing for quick and
