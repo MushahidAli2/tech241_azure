@@ -45,3 +45,6 @@ To orchestrate and run virtual machines, the following software components are t
 ### What is the importance of an image when creating a VM?
 
 An image is a template or snapshot of a virtual machine's configuration and state. It captures the operating system, applications, settings, and data required to create new instances of virtual machines. When creating a VM, an image serves as the foundation, allowing for quick and
+
+## Single azure VM
+![Alt Text](./diagram.jpg)
